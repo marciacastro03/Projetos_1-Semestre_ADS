@@ -9,8 +9,8 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e me
 
 ### 🚀 Tecnologias e Ferramentas
 💻 **Linguagens:** JavaScript, SQL, Python (iniciante)  
-🛠️ **Ferramentas:** Git, GitHub, VS Code, Excel Avançado  
-📊 **Interesses:** Data Analytics, Gestão de Projetos, Automação e E-commerce Systems  
+🛠️ **Ferramentas:** Git, GitHub, VS Code, Excel Avançado, Power BI Avançado  
+📊 **Interesses:** Data Analytics, Gestão de Projetos, Automação e Sistemas de RH
 
 ---
 
